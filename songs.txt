@@ -1,11 +1,26 @@
-#File Name		Time	Gain	Title
-StrangelyBeautifulShort	3:01	0.7	Strangely Beautyful
-AvalonShort		2:58	1.4	Avalon
-eastern_feeling		3:51	1.0	Eastern Feeling
-EtherealShort		3:04	0.7	Ethereal
-FarawayShort		3:05	0.7	Faraway
-bensound_deepblue	4:48	1.0	Deep Blue
-bensound_ofeliasdream	4:59	1.0	Ofelia's Dream
-bensound_slowmotion	3:26	1.0	Slowmotion
-rainymemory		2:10	1.0	Rainy Memory
-anonnp4014		2:30	1.6	Yawning Lion
+#File Name						Time	Gain	Title
+# Use tabs
+#
+StrangelyBeautiful				3:01	0.25	Strangely Beautiful
+Avalon							2:58	0.8		Avalon
+Eastern_Feeling					3:51	0.5		Eastern Feeling
+Ethereal						3:04	0.3		Ethereal
+Faraway							3:05	0.3		Faraway
+Autumn_Forest					1:55	0.5		Autumn Forest
+Breathe_Under_The_Sea			1:38	3.0		Breathe (Under The Sea)
+Dark_Ambient					3:03	0.6		Dark Ambient
+Spelunkers_Anthem_Cave_Theme	4:46	0.3		Spelunker's Anthem (Cave Theme)
+Streetsound						4:09	0.15	Streetsound
+Underwater_Theme_II				1:44	0.7		Underwater Theme II
+WinterFeeling					3:56	0.5		Winter Feeling
+Dawn							2:01	0.7		Dawn
+ExploringTheWorld				3:00	0.6		Exploring The World
+ShiningDiamond					2:45	0.5		Shining Diamond
+#
+#new songs still need to adjust gain:
+Calmed_Cube						2:23	0.5		Calmed Cube
+Cube_Waltz						1:57	0.5		Cube Waltz
+Sweet_Piano_Cubico				1:57	0.5		Sweet Piano Cubico
+The_Magic_of_the_forest			2:47	0.5		The Magic of the forest.
+What_we_will_build_next			2:23	0.5		What we'll build next.
+Cockroaches						3:29	0.5		Cockroaches.

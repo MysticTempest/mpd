@@ -1,0 +1,160 @@
+
+===================================================================================================================
+
+## Music credits:
+
+===================================================================================================================
+Title: Avalon
+Author: Øystein Ramfjord - Amethystium
+Source: <http://amethystium.com/> & <www.am.mu>
+
+Title: Ethereal
+Author: Øystein Ramfjord - Amethystium
+Source: <http://amethystium.com/> & <www.am.mu>
+
+
+Title: Faraway
+Author: Øystein Ramfjord - Amethystium
+Source: <http://amethystium.com/> & <www.am.mu>
+
+
+Title: Strangely Beautiful
+Author: Øystein Ramfjord - Amethystium
+Source: <http://amethystium.com/> & <www.am.mu>
+
+Licenses: See 'Notes' below.
+Notes:
+	These 4 were pulled from the Ambience mod. License is innformal; basically non-commercial, and proper credit.
+	See: https://github.com/Neuromancer56/MinetestAmbience/commit/70de26b4519d9c790454d43d40ce2920720e716a
+
+	"I can't give you a formal license (legal paperwork) for it, but as long as it's non-commercial I can give you my personal blessing and guarantee that you won't get in trouble for using it :) If that's enough just feel free to use any of my tracks. Please credit the music properly though, and include a link to www.amethystium.com and www.am.mu (it's the same site right now, but the latter will be a label/music store site soon).
+Best regards,
+�ystein Ramfjord"
+
+---------------------------------------------------------------------------
+
+
+Title: Eastern Feeling
+Author: Jordach
+Source: https://github.com/Jordach/big_freaking_dig/blob/master/mods/jdukebox/sounds/jukebox_track_3.ogg
+License: Originally GPLv3, later relicensed to WTFPL (license of Big_Freaking_Dig).
+Notes:
+
+
+Title: Autumn Forest
+Author: VocalMix
+Source: https://opengameart.org/content/autumn-forest
+License: OGA-BY 3.0
+Notes:
+
+
+Title: Breathe (Under The Sea)
+Author: onemansymphony
+Source: https://opengameart.org/content/breathe-under-the-sea
+License: CC-BY 4.0
+Notes: Requested Copyright/Attribution Notice: "Composer: İlker Yalçıner (ilkeryalciner.com)"
+
+
+Title: Dark Ambient
+Author: ahratmihmet
+Source: https://opengameart.org/content/dark-ambient 
+License: CC-BY 3.0
+Notes:
+
+
+Title: Spelunker's Anthem (Cave Theme)
+Author: Insydnis
+Source: https://opengameart.org/content/spelunkers-anthem-cave-theme
+License: CC-BY 3.0
+Notes:
+
+
+Title: Streetsound (music) [futuristic]
+Author: p0ss
+Source: https://opengameart.org/content/streetsound-music-futuristic
+License: CC-BY-SA 3.0/GPL 3.0
+Notes:
+
+
+Title: Underwater Theme II
+Author: CleytonKauffman
+Source: https://opengameart.org/content/underwater-theme-ii
+License: CC-BY-SA 4.0/OGA-BY 3.0
+Notes: Requested Copyright/Attribution Notice: "Music by Cleyton Kauffman - https://soundcloud.com/cleytonkauffman"
+
+
+Title: Winter Feeling
+Author: Tom Peter
+Source: <https://opengameart.org/content/winter-feeling>
+License: Attribution-ShareAlike 3.0 Unported (CC BY-SA 3.0) <http://creativecommons.org/licenses/by-sa/3.0/>
+
+
+Title: Dawn
+Author: Francesco Corrado
+Source: https://soundcloud.com/franzcorradomusic/dawn?in=franzcorradomusic/sets/minetest
+License: CC-BY SA
+Notes: https://www.reddit.com/r/Minetest/comments/l5qsp5/minetest_soundtrack_inspired_to_minecraft/
+
+
+Title: Exploring The World
+Author: Francesco Corrado
+Source: https://soundcloud.com/franzcorradomusic/exploring-the-world?in=franzcorradomusic/sets/minetest
+License: CC-BY SA
+Notes: https://www.reddit.com/r/Minetest/comments/l5qsp5/minetest_soundtrack_inspired_to_minecraft/
+
+
+Title: Shining Diamond
+Author: Francesco Corrado
+Source: https://soundcloud.com/franzcorradomusic/shining-diamond?in=franzcorradomusic/sets/minetest
+License: CC-BY SA
+Notes: https://www.reddit.com/r/Minetest/comments/l5qsp5/minetest_soundtrack_inspired_to_minecraft/
+
+
+
+Title: Calmed Cube
+Author: Dark Reaven Music
+Source: https://soundcloud.com/dark-reaven-music/01-calmed-cube
+License: CC By-SA 3.0
+Notes:
+
+
+Title: Cube Waltz
+Author: Dark Reaven Music
+Source: https://soundcloud.com/dark-reaven-music/03-cube-waltz
+License: CC By-SA 3.0
+Notes:
+
+
+Title: The Magic of the forest.
+Author: Dark Reaven Music
+Source: https://soundcloud.com/dark-reaven-music/04-the-magic-of-the-forest
+License: CC By-SA 3.0
+Notes:
+
+
+Title: Sweet Piano Cubico
+Author: Dark Reaven Music
+Source: https://soundcloud.com/dark-reaven-music/sweet-piano-cubico
+License: CC By-SA 3.0
+Notes:
+
+
+Title: What we'll build next.
+Author: Dark Reaven Music
+Source: https://soundcloud.com/dark-reaven-music/02-what-well-build-next
+License: CC By-SA 3.0
+Notes:
+
+
+
+Title: Cockroaches
+Author: Alexander Nakarada (www.serpentsoundstudios.com)
+Source: https://www.serpentsoundstudios.com/license-ambient/cockroaches
+License: CC By 4.0
+Notes:
+	Music: Cockroaches by Alexander Nakarada (www.serpentsoundstudios.com)
+	Licensed under Creative Commons: By Attribution 4.0 License
+	http://creativecommons.org/licenses/by/4.0/
+
+
+
