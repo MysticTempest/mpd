@@ -21,6 +21,15 @@ ShiningDiamond					2:45	0.5		Shining Diamond
 Calmed_Cube						2:23	0.5		Calmed Cube
 Cube_Waltz						1:57	0.5		Cube Waltz
 Sweet_Piano_Cubico				1:57	0.5		Sweet Piano Cubico
-The_Magic_of_the_forest			2:47	0.5		The Magic of the forest.
-What_we_will_build_next			2:23	0.5		What we'll build next.
-Cockroaches						3:29	0.5		Cockroaches.
+The_Magic_of_the_forest			2:47	0.5		The Magic of the forest
+What_we_will_build_next			2:23	0.5		What we'll build next
+Cockroaches						3:29	0.5		Cockroaches
+#
+Abandoned_Garden				1:56	0.5		Abandoned Garden
+Bluesy_Baritone					3:43	0.5		Bluesy Baritone
+Dino_Instrumental				4:10	0.5		Dino (instrumental)
+Filtered_Space					2:24	0.5		Filtered Space
+RPG_Town_Ambience_1				2:21	0.7		RPG Town Ambience 1
+Sleepy_Little_Mouse				3:00	0.6		Sleepy Little Mouse
+Somniphobia						3:15	0.5		Somniphobia
+Sparkling_Cosmic_Dust			1:24	0.5		Sparkling Cosmic Dust
